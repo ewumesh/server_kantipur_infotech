@@ -1,0 +1,14 @@
+{
+  "name": "server_kantipur-infotech",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "build": "json-server --watch db.json",
+  },
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+  }
+}
